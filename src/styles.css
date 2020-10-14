@@ -1,0 +1,38 @@
+body {
+  color: whitesmoke;
+  text-align: center;
+  background-image: url("https://ivyleaguesystems.com/wp-content/uploads/2017/10/background-pattern-design-10.jpg")
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+img {
+  width: 90%;
+}
+
+fieldset {
+  border: 1px solid white; 
+}
+
+legend {
+color: white;
+}
+
+a {
+  text-shadow: #000 0px 0px 3px;
+  padding: 6px;
+  border-radius: 5px;
+  border: 1px solid white;
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+a:hover {
+  background-color: white;
+}
+h3 {
+  margin: 30px;
+}
